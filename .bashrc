@@ -1,7 +1,8 @@
 alias l="ls -l"
+alias ll="ls -la"
 alias rm="rm -rf"
-alias n="neovim"
+alias v="vim"
 alias py="python"
 
-
+neofetch
 
