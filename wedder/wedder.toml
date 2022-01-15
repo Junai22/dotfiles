@@ -1,0 +1,15 @@
+interval = 300
+
+format = "<icon>  <temperature> °C | \ufa98 <temperature_max> °C Max, \ufa93 <temperature_min> °C Min | \uE34C  Amanecer - <sunrise> "
+
+
+[units]
+temperature = "Celsius"
+
+[weather]
+provider = "OpenWeatherMap"
+api_key = "api_key"
+
+[location]
+provider = "IpApi"
+
